@@ -25,3 +25,7 @@ Storytelling through data: Financial Presentation with clear visuals &amp; Insig
 - 🔹 **Presentation flow & engagement** – Structuring insights for clarity  
 
 📫 Questions? Connect via [LinkedIn](https://linkedin.com/in/shilla)!
+
+<p align="center">
+  <img src="https://github.com/AnalyticSleuth/test-file/blob/8833a947d5a5b68e7191df3b08dd6f9ca50588de/images/Animation%20-%201749133702083.gif" alt="Animated Preview">
+</p>
