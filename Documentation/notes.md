@@ -2,7 +2,8 @@
 
 ## Overview  
 This folder contains resources on:  
-- **Effective storytelling techniques** in data analysis  
+- **Effective storytelling techniques** in data analysis
+- **Outline and drafts before presentation
 - **Data cleaning methodologies** for structured reporting  
 
 ## Dataset Information  
