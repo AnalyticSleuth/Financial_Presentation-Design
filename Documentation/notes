@@ -1,1 +1,31 @@
 Guides on effective storytelling techniques
+And cleaning data 
+
+In this folder:
+Kaggle coffee shop data set 
+ 
+this is a csv file that was cleaned and analysed in excel to see marketing spend impact on operational profit
+Please note that this is from raw data dump to final dashboard - this is thought process not presentation skills, dashboard would be completed in powerpoint not excel or in Power Bi and not presented in this layout
+
+# Data Cleaning & Storytelling Guide
+
+## Overview  
+This folder contains resources on:  
+- **Effective storytelling techniques** in data analysis  
+- **Data cleaning methodologies** for structured reporting  
+
+## Dataset Information  
+📂 **Kaggle Coffee Shop Dataset**  
+This dataset (`.csv` file) was cleaned and analyzed in **Excel** to examine the **impact of marketing spend on operational profit**. The process includes:  
+- Raw data dump  
+- Cleaning and transformation  
+- Analytical insights leading to the final dashboard  
+
+## Important Notes  
+🔹 This analysis focuses on the **thought process**, not presentation techniques.  
+🔹 The dashboard will be developed using **PowerPoint or Power BI**, **not Excel**.  
+🔹 The current layout serves as an **intermediate step** in shaping structured insights.  
+
+---
+
+Would you like me to refine any sections further or add links for additional documentation? 🚀
