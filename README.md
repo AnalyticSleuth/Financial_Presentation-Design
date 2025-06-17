@@ -15,8 +15,7 @@ Storytelling through data: Financial Presentation with clear visuals &amp; Insig
 - **📂 SlideDecks/** – Final PowerPoint presentations for financial reporting  
 - **📂 Templates/** – Custom PowerPoint templates for professional design  
 - **📂 Visuals/** – Infographics, branded charts, and assets  
-- **📂 Storyboards/** – Draft outlines for presentation flow  
-- **📂 Documentation/** – Guides for storytelling, design, and audience engagement  
+- **📂 Documentation/** – Guides for storytelling, design, and audience engagement  & Draft outlines for presentation flow  
 
 ### 🎯 **Presentation Techniques Covered:**
 - 🔹 **Data storytelling** – How to transform numbers into a compelling narrative  
