@@ -13,12 +13,14 @@ Storytelling through data: Financial Presentation with clear visuals &amp; Insig
 
 ### 📂 Repository Structure:
 - **📂 SlideDecks/** – Final PowerPoint presentations for financial reporting
-  [Adventureworks2019 - SQL](https://github.com/AnalyticSleuth/Financial-Presentation-Design/blob/3979968073b483547639accb96127c0c4f00b206/Slidedecks_AdventureWorks2019/AW%20notes%20powerpoint.pdf)
+  <br>
+ [Adventureworks2019 - SQL](https://github.com/AnalyticSleuth/Financial-Presentation-Design/blob/3979968073b483547639accb96127c0c4f00b206/Slidedecks_AdventureWorks2019/AW%20notes%20powerpoint.pdf)
   <br>
 [Electric Tariff - Calculation process](https://github.com/AnalyticSleuth/Financial-Presentation-Design/blob/3979968073b483547639accb96127c0c4f00b206/Slidedecks_AdventureWorks2019/Elec%20Tarrif.pdf) 
 - **📂 Templates/** – Custom PowerPoint templates for professional design  
 - **📂 Visuals/** – Infographics, branded charts, and assets  
-- **📂 Documentation/** – Guides for storytelling, design, and audience engagement  & Draft outlines for presentation flow  
+- **📂 Documentation/** – Guides for cleaning, storytelling, design, and audience engagement  & Draft outlines for presentation flow <br>
+[Kaggle - datacleaning](https://github.com/AnalyticSleuth/Financial-Presentation-Design/blob/3979968073b483547639accb96127c0c4f00b206/Documentation/Kaggle%20Coffee%20Shop%20Excel.xlsx)
 
 ### 🎯 **Presentation Techniques Covered:**
 - 🔹 **Data storytelling** – How to transform numbers into a compelling narrative  
